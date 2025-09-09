@@ -71,7 +71,7 @@ If you use **FetalBio-AI** in your research or application, please cite both the
 
 **2. Software Repository:**
 
-> Sbrollini, A., Gjika, M., Mortada, M. J., AlKalet, M., & Burattini, L. (2025). FetalBio-AI: Software for Fetal Biometry Estimation [Computer software]. Retrieved from https://github.com/BME-Jafar/FetalBio-AI
+> Sbrollini, A., Gjika, M., Mortada, M. J., AlKalet, M., & Burattini, L. (2025). FetalBio-AI: Software for Fetal Biometry Estimation [Computer software]. Retrieved from https://github.com/BME-Jafar/FetalBio-AI 
 
 <p align="right" style="margin-bottom:0;">
   <img src="./br3inlogo.png" alt="BR3iN Group Logo" width="120">
